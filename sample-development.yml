@@ -1,4 +1,4 @@
-management:
+local hmanagement:
   endpoints:
     web:
       exposure:
