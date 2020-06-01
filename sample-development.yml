@@ -2,4 +2,4 @@ local hmanagement:
   endpoints:
     web:
       exposure:
-        include: health,info,env
+        include: health,info,envgit
