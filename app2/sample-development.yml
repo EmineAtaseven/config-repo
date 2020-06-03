@@ -1,0 +1,5 @@
+local hmanagement:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,envgit

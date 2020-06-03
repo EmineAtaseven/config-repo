@@ -1,0 +1,3 @@
+tname: Jerry
+greeting:
+  hello: Hello ${name}
